@@ -1,7 +1,8 @@
 body {
-  background-color: black;
+  background-color: rgb(31, 49, 28);
   color:white;
   text-align: center;
+  font-family: cursive;
 }
 
 .board-container {
